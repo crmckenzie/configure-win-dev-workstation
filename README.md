@@ -18,4 +18,5 @@ Suite of powershell scripts to setup and configure a development workstation. Al
 6. Configure-Machine.ps1
 7. Upgrade-Powershell
 8. Reboot
-9. Install-ChocolatelyPackages - you should "opt in" to the the packages you want by commenting packages in/out
+9. Install-Profile
+10. Install-ChocolatelyPackages - you should "opt in" to the the packages you want by commenting packages in/out
